@@ -1,11 +1,10 @@
 <div id="header" align="center">
-    <p>🏠 Hello and welcome to my github profil! 😀</p>
     <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy-downsized.gif" width="100"/> 
+    <p>🏠 Hello and welcome to my github profil! 😀</p>
 </div>
 
 <br>
 <p>Retrouver moi sur les reseaux sociaux</p>
-<br>
 <div id="badges">
     <div>
     <a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-quivron-163a7630/">
