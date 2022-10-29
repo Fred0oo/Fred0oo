@@ -3,6 +3,10 @@
     <h2>✨ Hello and welcome to my github profil! ✨</h2>
 </div>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=financial%20controller%20in%20baking%20environnement;risk%20Manager%20in%20Asset%20Management%20environnement;Developper%20Office%20Automation;ALM%20Manager%20in%20Tresury%20environnement&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
 <br>
 <p>🌍 Follow me on social medias </p>
 <div id="badges">
