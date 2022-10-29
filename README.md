@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy-downsized.gif" width="100"/> 
-    <h2 style="color: #24718c">✨ Hello and welcome to my github profil! ✨</h2>
+    <h2 style="color: #24718c;">✨ Hello and welcome to my github profil! ✨</h2>
 </div>
 
 <p align="center">
