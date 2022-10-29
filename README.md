@@ -1,4 +1,5 @@
 <div id="header" align="center">
+    <p>🏠 Hello and welcome to my github profil! 😀</p>
     <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy-downsized.gif" width="100"/> 
 </div>
 
