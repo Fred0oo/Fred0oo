@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h2 style="color:#24718c;">✨ Hello and welcome to my github profil! ✨</h2>
+    <h2>✨ Hello and welcome to my github profile! ✨</h2>
     <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy-downsized.gif" width="100"/> 
 </div>
 
